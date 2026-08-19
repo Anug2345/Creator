@@ -1,0 +1,6 @@
+{
+  "name": "Creators Rewards - Monetization Platform for Content Creators & Brands",
+  "description": "Premium creator rewards and monetization platform connecting verified creators with high-paying brand campaigns, instant bank payouts, and performance tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
